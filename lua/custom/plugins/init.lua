@@ -2,4 +2,11 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
-return {}
+return {
+
+  require 'custom/plugins/oil-vim',
+  require 'custom/plugins/noice',
+  require 'custom/plugins/dashboard-vim',
+  require 'custom/plugins/vim-go',
+  require 'custom/plugins/nvim-dap-go',
+}
