@@ -8,5 +8,4 @@ return {
   require 'custom/plugins/noice',
   require 'custom/plugins/dashboard-vim',
   require 'custom/plugins/vim-go',
-  require 'custom/plugins/nvim-dap-go',
 }
