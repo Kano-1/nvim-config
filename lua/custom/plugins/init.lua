@@ -11,4 +11,6 @@ return {
   require 'custom/plugins/toggleterm',
   require 'custom/plugins/harpoon',
   require 'custom/plugins/undotree',
+  require 'custom.plugins.nvim-ts-autotag',
+  require 'custom.plugins.vColor-nvim',
 }
